@@ -1,0 +1,10 @@
+== Introduction ==
+
+testharness.js provides a framework for writing javascript-based test
+cases, mainly aimed at browser developers and other implementors.
+
+It is intended to provide a convenient API for making common
+assertions, and to work both for testing synchronous and asynchronous
+DOM features in a way that promotes clear, robust, tests.
+
+For details on usage, see the inline documentation in src/testharness.js
